@@ -6,3 +6,6 @@ Here in this repository, I will record the journey of meeting different people's
 I choose the frame size of a one-inch ID photo，in China, everyone has many these sizes's photo, whenever you need to prepare official documents, you will have to take a photo of your half-length portrait in this one-inch size. I just think this size would be perfect for my hand photo project.\
 \
 I don't what I could find in this photos, it doesn't have any deep themes behind it, but I think, as time gose by, I would feel something when different hands presented here. 
+\
+【START THE JOURNEY HERE 🎯】（congtan0224.github.io/la-main/）
+
