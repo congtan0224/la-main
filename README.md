@@ -7,5 +7,5 @@ I choose the frame size of a one-inch ID photo，in China, everyone has many the
 \
 I don't what I could find in this photos, it doesn't have any deep themes behind it, but I think, as time gose by, I would feel something when different hands presented here. 
 \
-【START THE JOURNEY HERE 🎯】（congtan0224.github.io/la-main/）
+[START THE JOURNEY HERE 🎯](congtan0224.github.io/la-main/)
 
