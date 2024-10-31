@@ -1,5 +1,5 @@
 # la main
-This is a new project of mine, "la main" is a French word, which means hand. When I try to think about why I am interested in hand, it all started from my journey of learning drawing when I was a child. Drawing hand is always the hard and tricky part for me. Each fingers are different, and they can place so many combinations. They are intertwined, intricately entangled. I always wondering, " why and how human have hands? Hands are just so important in our lifes, we use them everyday for everything. \
+This is a new project of mine, "la main" is a French word, which means hand. When I try to think about why I am interested in hand, it all started from my journey of learning drawing when I was a child. Drawing hand is always the hard and tricky part for me. Each fingers are different, and they can create so many combinations. They are intertwined, intricately entangled. Also you can read a lot from one's hand, their past, now and future. I always wondering, " why do we have hands? Why do they look like this? \
 \
 Here in this repository, I will record the journey of meeting different people's hands. I won't shooting the picture of someone's hand on purpose, photos should be taken naturally, so some of the photo would be just a part of a whole picture may not focus on the hand, I just crop it to focus on a the hand area.\
 \
